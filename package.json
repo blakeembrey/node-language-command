@@ -1,0 +1,32 @@
+{
+  "name": "language-command",
+  "version": "0.0.0",
+  "description": "Look up the command for executing a program in any language.",
+  "main": "language-command.js",
+  "scripts": {
+    "test": "istanbul cover _mocha -- -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakeembrey/language-command.git"
+  },
+  "keywords": [
+    "language",
+    "command",
+    "exec",
+    "spawn"
+  ],
+  "author": "Blake Embrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakeembrey/language-command/issues"
+  },
+  "homepage": "https://github.com/blakeembrey/language-command",
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "istanbul": "^0.2.6"
+  },
+  "dependencies": {
+    "ejs": "^1.0.0"
+  }
+}
