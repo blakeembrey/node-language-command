@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/blakeembrey/language-command.git"
+    "url": "git://github.com/blakeembrey/node-language-command.git"
   },
   "keywords": [
     "language",
@@ -19,9 +19,9 @@
   "author": "Blake Embrey",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blakeembrey/language-command/issues"
+    "url": "https://github.com/blakeembrey/node-language-command/issues"
   },
-  "homepage": "https://github.com/blakeembrey/language-command",
+  "homepage": "https://github.com/blakeembrey/node-language-command",
   "devDependencies": {
     "mocha": "^1.18.2",
     "istanbul": "^0.2.6"
