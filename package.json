@@ -1,6 +1,6 @@
 {
   "name": "language-command",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Look up the command for executing a program in any language.",
   "main": "language-command.js",
   "scripts": {
