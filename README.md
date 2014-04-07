@@ -13,8 +13,8 @@ npm install language-command --save
 ```javascript
 var command = require('language-command');
 
-command('JavaScript', 'test.js');
-//=> "node test.js"
+command('JavaScript', 'test.js', '"test"');
+//=> "node test.js \"test\""
 ```
 
 ## Notes

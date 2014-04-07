@@ -1,4 +1,4 @@
-class HelloText
+class HelloWorld
 {
   public static Void main ()
   {

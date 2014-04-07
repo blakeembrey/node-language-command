@@ -27,6 +27,6 @@
     "istanbul": "^0.2.6"
   },
   "dependencies": {
-    "ejs": "^1.0.0"
+    "lodash": "^2.4.1"
   }
 }
