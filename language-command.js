@@ -9,7 +9,7 @@ var commands = require('./commands.json');
  *
  * @param  {String} language
  * @param  {String} file
- * @param  {String} args
+ * @param  {Array}  args
  * @return {String}
  */
 module.exports = function (language, file, args) {
@@ -32,6 +32,6 @@ module.exports = function (language, file, args) {
     sep:       path.sep,
     join:      path.join,
     delimiter: path.delimiter,
-    args:      args
+    args:      Array.isArray(args) ? args.map(JSON.stringify).join(' ') : args
   });
 };
