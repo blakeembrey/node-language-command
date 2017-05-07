@@ -1,5 +1,7 @@
 # Language Command
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/node-language-command.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url]
 [![Gittip][gittip-image]][gittip-url]
 

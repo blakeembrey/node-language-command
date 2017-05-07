@@ -27,10 +27,10 @@
   },
   "homepage": "https://github.com/blakeembrey/node-language-command",
   "devDependencies": {
-    "mocha": "^1.18.2",
-    "istanbul": "^0.2.6"
+    "mocha": "^3.3.0",
+    "istanbul": "^0.4.5"
   },
   "dependencies": {
-    "lodash": "^2.4.1"
+    "lodash": "^4.17.4"
   }
 }
